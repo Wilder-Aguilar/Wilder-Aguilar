@@ -1,15 +1,25 @@
-## Hi there 👋
+# ¡Hola, mundo!  Soy Wilder Aguilar
+## Desarrollador Web Full Stack en Formación 
 
+**¡Estoy emocionado de comenzar mi viaje en el desarrollo web!** 
 
-**Wilder-Aguilar/Wilder-Aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Un poco sobre mí:**
 
-Here are some ideas to get you started:
+*  Actualmente estoy aprendiendo y construyendo proyectos con HTML, CSS, JavaScript y React.
+*  Me encanta explorar nuevas tecnologías y resolver desafíos de programación.
+*  Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores.
+*  Contáctame si quieres trabajar en algo juntos: aguilarwilder@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Mis proyectos:**
+
+* [Enlace a tu primer proyecto] - [Breve descripción]
+* [Enlace a tu segundo proyecto] - [Breve descripción]
+* ...
+
+**Tecnologías con las que estoy familiarizado:**
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+**¡Sigue mi progreso!** 

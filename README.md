@@ -52,8 +52,8 @@
 
 <div align ="center">
   <a href="https://github.com/Wilder-Aguilar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleepsy&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleepsy&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 

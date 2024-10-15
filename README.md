@@ -1,5 +1,8 @@
 # ¡Hola, mundo!  Soy Wilder Aguilar
+
 ## Desarrollador Web Full Stack en Formación 
+
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)] [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)] [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)] [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=black)] [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-4DB33A?style=for-the-badge&logo=express&logoColor=white)][![SQL](https://img.shields.io/badge/SQL-307DB1?style=for-the-badge&logo=postgresql&logoColor=white)] [![Sequelize](https://img.shields.io/badge/Sequelize-5272B4?style=for-the-badge&logo=sequelize&logoColor=white)] [![Express Validator](https://img.shields.io/badge/Express%20Validator-blue?style=for-the-badge&logo=express&logoColor=white)] [![Jest](https://img.shields.io/badge/Jest-blue?style=for-the-badge&logo=jest&logoColor=white)] [![Supertst](https://img.shields.io/badge/Supertst-blue?style=for-the-badge&logo=supertest&logoColor=white)] [![Postman](https://img.shields.io/badge/Postman-F65E1D?style=for-the-badge&logo=postman&logoColor=white)]
 
 **¡Estoy emocionado de comenzar mi viaje en el desarrollo web!** 
 
@@ -14,12 +17,6 @@
 
 * https://github.com/Yedpt/BeatSchool.git - Web interactiva para crear ritmos de batería. Diseñada con HTML, CSS y JavaScript, ofrece una interfaz intuitiva y sonidos realistas. Elaborado de manera grupal en el Bootcamp de Factoria F5
 * https://github.com/Wilder-Aguilar/crud-tobasYara.git - Este proyecto proporciona una interfaz web para gestionar los datos de los integrantes de una fraternidad, aplicando el CRUD (Create/Crear, Read/Leer, Update/Actualizar y Delete/Borrar).
-
-**Tecnologías con las que estoy familiarizado:**
-[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* React
 
 <h3> Languages and tools </h3>
 <div align="center" valign="top"><br>

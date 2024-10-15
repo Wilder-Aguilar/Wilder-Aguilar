@@ -5,7 +5,7 @@
 
 **Un poco sobre mí:**
 
-*  Actualmente estoy aprendiendo y construyendo proyectos con HTML, CSS, JavaScript y React.
+*  Actualmente estoy aprendiendo y construyendo proyectos con HTML, CSS, JavaScript, React.
 *  Me encanta explorar nuevas tecnologías y resolver desafíos de programación.
 *  Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores.
 *  Contáctame si quieres trabajar en algo juntos: aguilarwilder@gmail.com

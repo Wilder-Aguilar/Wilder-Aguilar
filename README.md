@@ -9,10 +9,10 @@
 **Un poco sobre mí:**
 
 * Busco oportunidades para crecer y aprender en el mundo del desarrollo web.
-* Mis proyectos demuestran mi conocimiento en HTML, CSS, JavaScript y React. 
-*  Me encanta explorar nuevas tecnologías y resolver desafíos de programación.
-*  Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores.
-*  Contáctame si quieres trabajar en algo juntos: aguilarwilder@gmail.com
+* Los proyectos realizados demuestran el conocimiento adquirido en HTML, CSS, JavaScript, React, Node, SQL, entre otros. 
+* Me encanta explorar nuevas tecnologías y resolver desafíos de programación.
+* Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores.
+* Contáctame si quieres trabajar en algo juntos: aguilarwilder@gmail.com
 * ¡Revisa mi código y contactemos para colaborar!
 
 **Mis proyectos:** 📋

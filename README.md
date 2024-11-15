@@ -16,11 +16,11 @@
 * ¡Revisa mi código y contactemos para colaborar!
 
 **Mis proyectos:** 📋
-* [https://github.com/Wilder-Aguilar/gitGame](https://github.com/Wilder-Aguilar/gitGame) - Desarrollo Full Stack de una plataforma completa para los apasionados de los videojuegos.
-* [https://github.com/Wilder-Aguilar/backCatArte](https://github.com/Wilder-Aguilar/backCatArte) - Proyecto back-end para un museo virtual dedicado a los memes de gatos, con el objetivo de centralizar y gestionar la información de toda su colección de memes felinos en una base de datos relacional.
-* [https://github.com/Wilder-Aguilar/apiBook](https://github.com/Wilder-Aguilar/apiBook) - Este repositorio crea una API Node.js acerca de libros usando Express para interactuar con una base de datos MySQL a través de Sequelize.
-* [https://github.com/Wilder-Aguilar/BeatSchool](https://github.com/Wilder-Aguilar/BeatSchool.git) - Web interactiva para crear ritmos de batería. Diseñada con HTML, CSS y JavaScript, ofrece una interfaz intuitiva y sonidos realistas. Elaborado de manera grupal en el Bootcamp de Factoria F5
-* [https://github.com/Wilder-Aguilar/crud-tobasYara.git](https://github.com/Wilder-Aguilar/crud-tobasYara.git) - Este proyecto proporciona una interfaz web para gestionar los datos de los integrantes de una fraternidad, aplicando el CRUD (Create/Crear, Read/Leer, Update/Actualizar y Delete/Borrar).
+* [Blog de videojuegos GitGame](https://github.com/Wilder-Aguilar/gitGame) - Desarrollo Full Stack de una plataforma completa para los apasionados de los videojuegos.
+* [Back-end para un museo virtual](https://github.com/Wilder-Aguilar/backCatArte) - Proyecto back-end para un museo virtual dedicado a los memes de gatos, con el objetivo de centralizar y gestionar la información de toda su colección de memes felinos en una base de datos relacional.
+* [Api para gestión de libros](https://github.com/Wilder-Aguilar/apiBook) - Este repositorio crea una API Node.js acerca de libros usando Express para interactuar con una base de datos MySQL a través de Sequelize.
+* [Bateria digital](https://github.com/Wilder-Aguilar/BeatSchool) - Web interactiva para crear ritmos de batería. Diseñada con HTML, CSS y JavaScript, ofrece una interfaz intuitiva y sonidos realistas. Elaborado de manera grupal en el Bootcamp de Factoria F5
+* [Mi primer proyecto CRUD](https://github.com/Wilder-Aguilar/crud-tobasYara) - Este proyecto proporciona una interfaz web para gestionar los datos de los integrantes de una fraternidad, aplicando el CRUD (Create/Crear, Read/Leer, Update/Actualizar y Delete/Borrar).
 
 <h3> My GitHub Stats </h3>
 

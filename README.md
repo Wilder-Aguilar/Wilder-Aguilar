@@ -1,17 +1,17 @@
 # ¡Hola, mundo!  Soy Wilder Aguilar
 
-## Desarrollador Web Full Stack Junior 
+## Desarrollador Full Stack | Científico de Datos en formación
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-4DB33A?style=for-the-badge&logo=express&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-307DB1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-5272B4?style=for-the-badge&logo=sequelize&logoColor=white) ![Express Validator](https://img.shields.io/badge/Express%20Validator-blue?style=for-the-badge&logo=express&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-blue?style=for-the-badge&logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertst-blue?style=for-the-badge&logo=supertest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-F65E1D?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-1F71AB?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white) 
 
-**"Estoy en constante aprendizaje y mejorando mis habilidades en desarrollo web, avanzando cada día en este emocionante camino."** 
+**"Actualmente estoy en constante aprendizaje, mejorando mis habilidades en desarrollo web y expandiéndome hacia la Ciencia de Datos. Estoy avanzando cada día en este emocionante camino.."** 
 
 **Un poco sobre mí:**
 
-* Busco oportunidades para crecer y aprender en el mundo del desarrollo web.
-* Los proyectos realizados demuestran el conocimiento adquirido en HTML, CSS, JavaScript, React, Node, SQL, entre otros. 
-* Me encanta explorar nuevas tecnologías y resolver desafíos de programación.
-* Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores.
+* Busco oportunidades para crecer y aplicar mis conocimientos en desarrollo web y análisis de datos.
+* Los proyectos realizados demuestran mi conocimiento en tecnologías como HTML, CSS, JavaScript, React, Node.js, SQL y, más recientemente, en temas de ciencia de datos. 
+* Me encanta explorar nuevas tecnologías y resolver desafíos de programación y análisis de problemas complejos con datos.
+* Estoy abierto a colaborar en proyectos y aprender de otros desarrolladores y científicos de datos.
 * Contáctame si quieres trabajar en algo juntos: aguilarwilder@gmail.com
 * ¡Revisa mi código y contactemos para colaborar!
 

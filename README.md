@@ -1,7 +1,7 @@
 # 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola+soy+Wilder;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hola+soy+Wilder;Bienvenido+a+mi+perfil" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,15 +27,6 @@
 * [Bateria digital](https://github.com/Wilder-Aguilar/BeatSchool) - Web interactiva para crear ritmos de batería. Diseñada con HTML, CSS y JavaScript, ofrece una interfaz intuitiva y sonidos realistas. Elaborado de manera grupal en el Bootcamp de Factoria F5
 * [Mi primer proyecto CRUD](https://github.com/Wilder-Aguilar/crud-tobasYara) - Este proyecto proporciona una interfaz web para gestionar los datos de los integrantes de una fraternidad, aplicando el CRUD (Create/Crear, Read/Leer, Update/Actualizar y Delete/Borrar).
 
-<h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=dark" alt="Wilder Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
-</p>
 
 <h3 align="center">Tecnologías y Herramientas</h3>
 

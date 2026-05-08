@@ -22,13 +22,15 @@
 * [Bateria digital](https://github.com/Wilder-Aguilar/BeatSchool) - Web interactiva para crear ritmos de batería. Diseñada con HTML, CSS y JavaScript, ofrece una interfaz intuitiva y sonidos realistas. Elaborado de manera grupal en el Bootcamp de Factoria F5
 * [Mi primer proyecto CRUD](https://github.com/Wilder-Aguilar/crud-tobasYara) - Este proyecto proporciona una interfaz web para gestionar los datos de los integrantes de una fraternidad, aplicando el CRUD (Create/Crear, Read/Leer, Update/Actualizar y Delete/Borrar).
 
-<h3> My GitHub Stats </h3>
+<h3 align="center">My GitHub Stats</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Wilder-Aguilar">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true" alt="Estadísticas de Wilder"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&theme=dark&hide_border=false&layout=compact" alt="Lenguajes de Wilder"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Wilder GitHub Stats" />
   </a>
-</div>
+  <a href="https://github.com/Wilder-Aguilar">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=dark" alt="Wilder Top Langs" />
+  </a>
+</p>
 
 **¡Sigue mi progreso!** 

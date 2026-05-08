@@ -1,4 +1,9 @@
-# ¡Hola, mundo!  Soy Wilder Aguilar
+# 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola+soy+Wilder;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Desarrollador Full Stack | Científico de Datos en formación
 
@@ -32,18 +37,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&color=blue&style=flat-square" alt="Wilder Visitas" />
-</p>
+<h3 align="center">Tecnologías y Herramientas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,python,mysql" alt="Mis Skills" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola+soy+Wilder;Desarrollador+Software;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
   </a>
+</p>
+
+<h3 align="center">Mis Estadísticas</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=dark" alt="Wilder Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&color=36BCF7&style=flat-square&label=VISITAS+AL+PERFIL" alt="Wilder Visitas" />
 </p>
 
 

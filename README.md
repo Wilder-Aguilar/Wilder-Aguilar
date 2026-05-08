@@ -32,4 +32,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&color=blue&style=flat-square" alt="Wilder Visitas" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,python,mysql" alt="Mis Skills" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola+soy+Wilder;Desarrollador+Software;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 **¡Sigue mi progreso!** 

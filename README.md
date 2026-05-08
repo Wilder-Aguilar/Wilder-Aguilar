@@ -32,5 +32,19 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=dark" alt="Wilder Top Langs" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&theme=dark&cache=1" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=dark" alt="Wilder Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Wilder-Aguilar?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America/Bogota" alt="Métricas Wilder" />
+</p>
+
+
+
 **¡Sigue mi progreso!** 

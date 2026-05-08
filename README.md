@@ -32,5 +32,5 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=dark" alt="Wilder Top Langs" />
   </a>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&theme=dark&cache=1" />
 **¡Sigue mi progreso!** 

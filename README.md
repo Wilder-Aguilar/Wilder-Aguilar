@@ -25,26 +25,11 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/Wilder-Aguilar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Wilder GitHub Stats" />
-  </a>
-  <a href="https://github.com/Wilder-Aguilar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=dark" alt="Wilder Top Langs" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=dark" alt="Wilder Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
 </p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Wilder-Aguilar?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America/Bogota" alt="Métricas Wilder" />
-</p>
-
-
 
 **¡Sigue mi progreso!** 

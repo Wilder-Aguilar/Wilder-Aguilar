@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Desarrollador Full Stack | Científico de Datos en formación</h2>
+<h2 align="center">Desarrollador Full Stack | Data Scientist</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-4DB33A?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-307DB1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-5272B4?style=for-the-badge&logo=sequelize&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-F65E1D?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/git-1F71AB?style=for-the-badge&logo=git&logoColor=white" />

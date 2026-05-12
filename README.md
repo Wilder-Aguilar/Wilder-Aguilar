@@ -52,14 +52,15 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wilderaguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wilder Aguilar" height="30" width="40" /></a>
-<a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wilderaguilar" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wilder Aguilar" height="30" width="40" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:aguilarwilder@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email Wilder" height="30" width="40" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilder-Aguilar&repo=NOMBRE-DEL-REPO&theme=tokyonight" />
-</p>
-
 
 ![Accuracy](https://img.shields.io/badge/Model_Accuracy-98.4%25-brightgreen?style=flat-square&logo=target)
 ![Model](https://img.shields.io/badge/Algorithm-XGBoost-blue?style=flat-square&logo=python)

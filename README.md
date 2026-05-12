@@ -61,7 +61,3 @@
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email Wilder" height="30" width="40" />
   </a>
 </p>
-
-![Accuracy](https://img.shields.io/badge/Model_Accuracy-98.4%25-brightgreen?style=flat-square&logo=target)
-![Model](https://img.shields.io/badge/Algorithm-XGBoost-blue?style=flat-square&logo=python)
-

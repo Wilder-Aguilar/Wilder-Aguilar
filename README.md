@@ -36,7 +36,7 @@
 <h3 align="center">Tecnologías y Herramientas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,googlecolab,powerbi,html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,powerbi,html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
   </a>
 </p>
 

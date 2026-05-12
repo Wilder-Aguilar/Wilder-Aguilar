@@ -65,3 +65,22 @@
     <img src="https://img.shields.io/badge/Curriculum_Vitae-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Wilder" />
   </a>
 </p>
+
+<hr />
+<p align="center">
+  <i>"Convirtiendo datos en decisiones y código en soluciones eficientes."</i><br>
+  <b>¡Siempre abierto a colaborar en proyectos de ML e IA aplicada!</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<hr />
+<p align="center">
+  <i>"En Dios confiamos; todos los demás deben traer datos."</i> — <b>W. Edwards Deming</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&label=Profile%20Views&color=0077B5&style=flat" alt="Vistas del perfil" />
+</p>
+

@@ -6,34 +6,40 @@
 
 <h2 align="center"> Data Scientist | Full Stack Developer </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&label=Profile%20Views&color=0077B5&style=flat" alt="Vistas del perfil" />
+</p>
+
 ---
 
 ### 🚀 Un poco sobre mí
 
-> **"Actualmente estoy en constante aprendizaje, formandome intensivamente en Ciencia de Datos."**
+> **"Actualmente estoy en constante aprendizaje, formándome intensivamente en Ciencia de Datos."**
 
-*   🔍 Busco oportunidades para crecer y aplicar mis conocimientos en ciencia de datos y análisis de datos.
-*   💻 Me encanta explorar nuevas tecnologías y resolver desafíos complejos con datos.
-*   🤝 Estoy abierto a colaborar y aprender de otros profesionales.
-*   📧 Contáctame: **aguilarwilder@gmail.com**
+* 🔍 Busco oportunidades para crecer y aplicar mis conocimientos en ciencia de datos y análisis de datos.
+* 💻 Me encanta explorar nuevas tecnologías y resolver desafíos complejos con datos.
+* 🤝 Estoy abierto a colaborar y aprender de otros profesionales.
+* 📧 Contáctame: **aguilarwilder@gmail.com**
 
 ---
 
 ### 📋 Proyectos Destacados
-*   🤖 [DSS Mantenimiento Industrial ](https://github.com/Wilder-Aguilar/industrial-predictive-maintenance-dss-xai) - Sistema de soporte a la decisión con ML (XGBoost) y XAI (SHAP).
-*   🎮 [Blog de videojuegos GitGame](https://github.com/Wilder-Aguilar/gitGame) - Plataforma Full Stack completa.
-*   🐱 [Back-end Museo Virtual](https://github.com/Wilder-Aguilar/backCatArte) - Gestión de colecciones en base de datos relacional.
-*   📚 [API Gestión de Libros](https://github.com/Wilder-Aguilar/apiBook) - Node.js + Express + MySQL/Sequelize.
-*   🥁 [Batería Digital](https://github.com/Wilder-Aguilar/BeatSchool) - Web interactiva (HTML/CSS/JS).
-*   👥 [Primer CRUD](https://github.com/Wilder-Aguilar/crud-tobasYara) - Interfaz de gestión para fraternidades.
+
+* 🤖 **[DSS Mantenimiento Industrial](https://github.com/Wilder-Aguilar/industrial-predictive-maintenance-dss-xai)** - Sistema de soporte a la decisión con ML (XGBoost) y XAI (SHAP).
+* 🎮 **[Blog de videojuegos GitGame](https://github.com/Wilder-Aguilar/gitGame)** - Plataforma Full Stack completa.
+* 🐱 **[Back-end Museo Virtual](https://github.com/Wilder-Aguilar/backCatArte)** - Gestión de colecciones en base de datos relacional.
+* 📚 **[API Gestión de Libros](https://github.com/Wilder-Aguilar/apiBook)** - Node.js + Express + MySQL/Sequelize.
+* 🥁 **[Batería Digital](https://github.com/Wilder-Aguilar/BeatSchool)** - Web interactiva (HTML/CSS/JS).
+* 👥 **[Primer CRUD](https://github.com/Wilder-Aguilar/crud-tobasYara)** - Interfaz de gestión para fraternidades.
 
 ---
 
 <h3 align="center">Tecnologías y Herramientas</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <p align="center">
@@ -42,40 +48,36 @@
   </a>
 </p>
 
-
 ---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
-<h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-  <!-- LinkedIn -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h3 align="center">Conecta conmigo:</h3>
+
+<p align="center">
   <a href="https://linkedin.com/in/wilderaguilar" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Wilder" />
   </a>
-  <!-- Gmail -->
   <a href="mailto:aguilarwilder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Wilder" />
   </a>
-  <!-- CV / Portfolio (Sugerencia adicional) -->
   <a href="TU_ENLACE_AQUÍ" target="blank">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Wilder" />
   </a>
 </p>
 
-<hr />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<br />
 
-<hr />
 <p align="center">
   <i>"En Dios confiamos; todos los demás deben traer datos."</i> — <b>W. Edwards Deming</b>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&label=Profile%20Views&color=0077B5&style=flat" alt="Vistas del perfil" />
-</p>
-

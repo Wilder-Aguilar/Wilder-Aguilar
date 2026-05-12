@@ -33,10 +33,10 @@
 
 ---
 
-<h3 align="center">Data Science Stack</h3>
+<h3 align="center">Tecnologías y Herramientas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,colab,scikitlearn,sklearn,tensorflow,powerbi,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,googlecolab,powerbi,html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
   </a>
 </p>
 

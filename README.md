@@ -6,10 +6,6 @@
 
 <h2 align="center">Desarrollador Full Stack | Data Scientist</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-4DB33A?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-307DB1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-5272B4?style=for-the-badge&logo=sequelize&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-F65E1D?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/git-1F71AB?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 Un poco sobre mí
@@ -35,17 +31,16 @@
 
 <h3 align="center">Tecnologías y Herramientas</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,powerbi,html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,mysql,sequelize,jest,postman,git,github" />
+  </a>
 </p>
-
 
 <h3 align="center">Estadísticas de GitHub</h3>
 <p align="center">

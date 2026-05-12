@@ -59,9 +59,9 @@
 ---
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=cobalt&count_private=true" alt="Estadísticas de Wilder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=cobalt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=cobalt" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=cobalt" />
 </p>

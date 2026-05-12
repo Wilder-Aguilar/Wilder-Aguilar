@@ -42,19 +42,6 @@
   </a>
 </p>
 
-<h3 align="center">Estadísticas de GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=dark" alt="Wilder Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilder-Aguilar&theme=dark" alt="Resumen de perfil" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilder-Aguilar&color=36BCF7&style=flat-square&label=VISITAS+AL+PERFIL" alt="Wilder Visitas" />
-</p>
-
-<p align="center"><b>¡Sigue mi progreso!</b></p>
 
 ---
 ### 📊 Estadísticas de GitHub

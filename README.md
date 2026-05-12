@@ -14,9 +14,9 @@
 
 ### 🚀 Un poco sobre mí
 
-> **"Actualmente estoy en constante aprendizaje, mejorando mis habilidades en desarrollo web y expandiéndome hacia la Ciencia de Datos."**
+> **"Actualmente estoy en constante aprendizaje, formandome intensivamente en Ciencia de Datos."**
 
-*   🔍 Busco oportunidades para crecer y aplicar mis conocimientos en desarrollo web y análisis de datos.
+*   🔍 Busco oportunidades para crecer y aplicar mis conocimientos en ciencia de datos y análisis de datos.
 *   💻 Me encanta explorar nuevas tecnologías y resolver desafíos complejos con datos.
 *   🤝 Estoy abierto a colaborar y aprender de otros profesionales.
 *   📧 Contáctame: **aguilarwilder@gmail.com**
@@ -24,6 +24,7 @@
 ---
 
 ### 📋 Proyectos Destacados
+*   🤖 [DSS Mantenimiento Industrial ](https://github.com/Wilder-Aguilar/industrial-predictive-maintenance-dss-xai) - Sistema de soporte a la decisión con ML (XGBoost) y XAI (SHAP).
 *   🎮 [Blog de videojuegos GitGame](https://github.com/Wilder-Aguilar/gitGame) - Plataforma Full Stack completa.
 *   🐱 [Back-end Museo Virtual](https://github.com/Wilder-Aguilar/backCatArte) - Gestión de colecciones en base de datos relacional.
 *   📚 [API Gestión de Libros](https://github.com/Wilder-Aguilar/apiBook) - Node.js + Express + MySQL/Sequelize.

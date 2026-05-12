@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Desarrollador Full Stack | Data Scientist</h2>
+<h2 align="center"> Data Scientist | Full Stack Developer </h2>
 
 ---
 

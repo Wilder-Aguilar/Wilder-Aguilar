@@ -50,14 +50,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
+<h3 align="center">Conecta conmigo:</h3>
+<p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wilder Aguilar" height="30" width="40" />
+  <a href="https://linkedin.com/in/wilderaguilar" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Wilder" />
   </a>
   <!-- Gmail -->
   <a href="mailto:aguilarwilder@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email Wilder" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Wilder" />
+  </a>
+  <!-- CV / Portfolio (Sugerencia adicional) -->
+  <a href="TU_ENLACE_AQUÍ" target="blank">
+    <img src="https://img.shields.io/badge/Curriculum_Vitae-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV Wilder" />
   </a>
 </p>

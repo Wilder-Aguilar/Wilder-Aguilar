@@ -68,11 +68,6 @@
 
 <hr />
 <p align="center">
-  <i>"Convirtiendo datos en decisiones y código en soluciones eficientes."</i><br>
-  <b>¡Siempre abierto a colaborar en proyectos de ML e IA aplicada!</b>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 

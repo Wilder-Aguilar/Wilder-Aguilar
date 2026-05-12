@@ -51,13 +51,8 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=cobalt&hide_border=false" alt="Estadísticas de Wilder" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=cobalt" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilder-Aguilar&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 <h3 align="left">Conecta conmigo:</h3>
@@ -66,9 +61,8 @@
 <a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wilderaguilar" height="30" width="40" /></a>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilder-Aguilar&repo=NOMBRE-DEL-REPO&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilder-Aguilar&repo=NOMBRE-DEL-REPO&theme=tokyonight" />
 </p>
 
 

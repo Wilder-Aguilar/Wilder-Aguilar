@@ -55,3 +55,8 @@
 </p>
 
 <p align="center"><b>¡Sigue mi progreso!</b></p>
+
+---
+### 📊 Estadísticas de GitHub
+![Estadísticas de Wilder](https://github-readme-stats.vercel.app/api?username=Wilder-Aguilar&show_icons=true&theme=midnight-purpl&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilder-Aguilar&layout=compact&theme=midnight-purpl)
